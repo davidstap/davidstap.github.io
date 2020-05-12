@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>David Stap</title>
+    <link>https://davidstap.github.io/author/david-stap/</link>
+      <atom:link href="https://davidstap.github.io/author/david-stap/index.xml" rel="self" type="application/rss+xml" />
+    <description>David Stap</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 David Stap</copyright>
+    <image>
+      <url>https://davidstap.github.io/author/david-stap/avatar_hu535661bce2c742bf7a0f6a055ac0b6d1_53184_270x270_fill_q90_lanczos_center.jpg</url>
+      <title>David Stap</title>
+      <link>https://davidstap.github.io/author/david-stap/</link>
+    </image>
+    
+  </channel>
+</rss>
