@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>David Stap</title>
-    <link>https://davidstap.github.io/</link>
-      <atom:link href="https://davidstap.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>David Stap</description>
+    <title>Posts | David Stap</title>
+    <link>https://davidstap.github.io/post/</link>
+      <atom:link href="https://davidstap.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 David Stap</copyright><lastBuildDate>Mon, 23 Nov 2020 00:00:00 +0100</lastBuildDate>
     <image>
       <url>https://davidstap.github.io/images/icon_hud4b034c4f7a5c231da985da63cf83ade_53523_512x512_fill_lanczos_center_2.png</url>
-      <title>David Stap</title>
-      <link>https://davidstap.github.io/</link>
+      <title>Posts</title>
+      <link>https://davidstap.github.io/post/</link>
     </image>
     
     <item>
@@ -96,22 +96,6 @@
 &lt;p&gt;The authors present LAReQA, a benchmark for language-agnostic answer retrieval from a multilingual candidate pool. They show that high scores can be obtained for previous cross-lingual benchmarks even if the model is weakly aligned; i.e. an incorrect answer in the same language is preferred over the correct answer in a different language. LAReQA instead tests for strong alignment, requiring semantically related cross-language pairs to be closer in representation space than unrelated same-language pairs. Building on 
 &lt;a href=&#34;https://github.com/google-research/bert/blob/master/multilingual.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;multilingual BERT&lt;/a&gt;, the authors find that augmenting training data via machine translation is an effective approach.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Conditional image generation and manipulation for user-specified content</title>
-      <link>https://davidstap.github.io/publication/2020a-cvpr/</link>
-      <pubDate>Wed, 29 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://davidstap.github.io/publication/2020a-cvpr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gamification for learning by modelling in interactive learning environments</title>
-      <link>https://davidstap.github.io/publication/2017b-bnaic/</link>
-      <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://davidstap.github.io/publication/2017b-bnaic/</guid>
-      <description></description>
     </item>
     
   </channel>
